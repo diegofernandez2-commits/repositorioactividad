@@ -8,3 +8,5 @@
 8. Se realizó el commit "docs: nuevo archivo".
 9. Se subieron los cambios al repositorio remoto mediante git push.
 10. Se creó la rama docs/modificaciones para continuar trabajando.
+
+Capturas de la actividad en carpeta aparte
